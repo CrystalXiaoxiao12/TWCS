@@ -19,6 +19,7 @@ run  `make`
 
 
 ----------------------------------Verification----------------------------------
+
 number of inserted edges: 2
 
 they are 
