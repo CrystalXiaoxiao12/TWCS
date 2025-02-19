@@ -16,9 +16,14 @@ run  `make`
 `./main.out Graph.example 5 Targetcommunity.example 8 GlobalPlus`
 ### output
 2 0.00337109
+
 ----------------------------------Verification----------------------------------
+
 number of inserted edges: 2
+
 they are 
+
  ( 4 , 8 ) 
  ( 5 , 8 ) 
+
 correct! w is in k_truss_community
